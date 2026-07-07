@@ -72,8 +72,8 @@ Sou um(a) desenvolvedor(a) apaixonado(a) por criar soluções web completas e fu
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=radical" alt="Estatísticas do GitHub" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=radical" alt="Linguagens mais usadas" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=vinimeisterI&show_icons=true&theme=radical" alt="Estatísticas do GitHub" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinimeister&layout=compact&theme=radical" alt="Linguagens mais usadas" width="48%"/>
 </p>
 
 ---
