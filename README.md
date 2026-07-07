@@ -1,4 +1,3 @@
-
 <h1 align="center"> Olá, eu sou [Seu Nome]! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px" height="30px"> </h1>
 
 <p align="center">
@@ -100,7 +99,7 @@ Sou um(a) desenvolvedor(a) apaixonado(a) por criar soluções web completas e fu
 ### 📌 Projetos em Destaque
 
 
-*   **Sistema de bar em python]** - https://github.com/vinimeister/sistema-bar-python
+*   **Sistema de bar em python** - https://github.com/vinimeister/sistema-bar-python
 *   **Exercicios básico ao avançado em python** - https://github.com/vinimeister/PythonProject
 * 
 
