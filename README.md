@@ -53,7 +53,7 @@ Sou um(a) desenvolvedor(a) apaixonado(a) por criar soluções web completas e fu
     </tr>
     <tr>
       <td><strong>⚙️ Back-end</strong></td>
-      <td>Python (Django/Flask ou outro framework que você usa)</td>
+      <td>Python, Django</td>
     </tr>
     <tr>
       <td><strong>🗄️ Banco de Dados</strong></td>
@@ -61,7 +61,7 @@ Sou um(a) desenvolvedor(a) apaixonado(a) por criar soluções web completas e fu
     </tr>
     <tr>
       <td><strong>🛠️ Ferramentas</strong></td>
-      <td>Git, VS Code, [outras ferramentas que você usa]</td>
+      <td>Git, Pycharm</td>
     </tr>
   </table>
 </p>
