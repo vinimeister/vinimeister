@@ -15,7 +15,7 @@ Sou um(a) desenvolvedor(a) apaixonado(a) por criar soluções web completas e fu
 *   👯 Estou procurando colaborar em: **sistemas web e software**
 *   💬 Me pergunte sobre: **HTML, CSS, JavaScript, Python ou MySQL**
 *   📫 Como me encontrar: **vnschagas@icloud.com**
-*   ⚡ Curiosidade: **Sou Amapaense, quilombola e apaixonado por jogos e programação**
+*   ⚡ Curiosidade: **Sou Amapaense, quilombola, apaixonado por jogos e programação**
 
 ---
 
