@@ -113,5 +113,5 @@ Sou um(a) desenvolvedor(a) apaixonado(a) por criar soluções web completas e fu
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SEU_USUARIO_AQUI&label=Visualizações%20do%20Perfil&color=0e75b6&style=flat" alt="Contador de visualizações"/>
+  <img src="https://komarev.com/ghpvc/?username=vinimeister&label=Visualizações%20do%20Perfil&color=0e75b6&style=flat" alt="Contador de visualizações"/>
 </p>
