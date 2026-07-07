@@ -100,8 +100,8 @@ Sou um(a) desenvolvedor(a) apaixonado(a) por criar soluções web completas e fu
 ### 📌 Projetos em Destaque
 
 
-*   **Sistema de bar em python]** - [https://github.com/vinimeister/sistema-bar-python]
-*   **Exercicios básico ao avançado em python** - [https://github.com/vinimeister/PythonProject]
+*   **Sistema de bar em python]** - https://github.com/vinimeister/sistema-bar-python
+*   **Exercicios básico ao avançado em python** - https://github.com/vinimeister/PythonProject
 * 
 
 ---
